@@ -21,25 +21,19 @@ The extension, compiled with IDL 8.0, applies both to ENVI Standard and ENVI Cla
 *********************
 
 ***** First version 2 July 2012
-
 Core functionality.
 
 ***** Update 5 September 2012
-
 Backward compatibility with ENVI 4.8 and minor bug fixing.
 
 ***** Update 24 October 2012
-
 Unique sav file for both ENVI interfaces and new statistics-like result window.
 
 ***** Update 25 October 2012
-
 Hotfix: wrong values of mean and std dev were printed in the report.
 
 ***** Update 21 April 2013
-
 Fix problems with very large images.
 
 ***** Update 2 March 2018
-
 Available on GitHub!
